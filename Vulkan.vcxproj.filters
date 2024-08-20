@@ -33,19 +33,25 @@
     <ClCompile Include="lve_device.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="swap_chain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="lve_window.hpp">
-      <Filter>Source Files</Filter>
-    </ClInclude>
     <ClInclude Include="first_app.hpp">
-      <Filter>Source Files</Filter>
-    </ClInclude>
-    <ClInclude Include="lve_pipeline.hpp">
-      <Filter>Source Files</Filter>
+      <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="lve_device.hpp">
-      <Filter>Source Files</Filter>
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="lve_pipeline.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="lve_window.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="swap_chain.hpp">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
